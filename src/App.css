@@ -16,3 +16,8 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.red {
+  color: red;
+  font-size: 50px;
+}
